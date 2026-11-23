@@ -1,0 +1,7 @@
+# Archivos temporales y de depuracion
+*.pdb
+*.tmp
+*.log
+.vs/
+bin/
+obj/
